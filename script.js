@@ -10,3 +10,4 @@ result.value=eval(result.value)
 function deleteExp(){
     result.value=result.value.slice(0,-1)
 }
+}
